@@ -6,7 +6,7 @@ require('./config/config');
 require('./models/db');
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.send('Hello World! mon gars')
 })
 
 app.listen(port, () => {
