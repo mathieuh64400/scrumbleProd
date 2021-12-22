@@ -4,8 +4,8 @@
   "description": "Serveur de données pour le jeu Scrumble",
   "main": "scrumble.js",
   "scripts": {
-    "start": "nodemon app.js",
-    "dev": " app.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
