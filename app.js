@@ -2,7 +2,7 @@ require('./config/config');
 require('./models/db');
 require('./config/passportConfig');
 
-const socket = require('socket.io');
+// const socket = require('socket.io');
 const passport = require('passport');
 
 
