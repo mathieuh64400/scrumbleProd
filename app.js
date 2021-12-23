@@ -1,7 +1,7 @@
 require('./config/config');
 require('./models/db');
 require('./config/passportConfig');
-
+require('dotenv').config()
 // const socket = require('socket.io');
 const passport = require('passport');
 
